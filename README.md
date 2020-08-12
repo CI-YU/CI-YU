@@ -1,4 +1,6 @@
 ### Hi there 👋
+## About me
+I'm currently learning .net MVC and nodejs and html/css and javascript 
 
 <!--
 **CI-YU/CI-YU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
