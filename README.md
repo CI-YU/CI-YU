@@ -8,9 +8,17 @@
 + Javascript
 + Jquery
 + Node.js
+  + express
 + C#
-+ Git
-+ TFS
+  + .Net MVC
++ 版本控制
+  + Git
+  + TFS
++ Ｄatabase
+  + SQL Server
+  + MariaDB
+  + MongoDB
+
 ## Demo
 [Blog](https://ci-yu.github.io)
 
