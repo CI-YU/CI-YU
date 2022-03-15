@@ -15,7 +15,7 @@
 + 版本控制
   + Git
   + TFS
-+ Ｄatabase
++ Database
   + SQL Server
   + MariaDB
   + MongoDB
