@@ -22,7 +22,7 @@
   + MongoDB
 
 ## Demo
-[Blog](https://ci-yu.github.io)
+[Blog](https://ci-yu.top)
 
 [聊天程式](https://github.com/CI-YU/chat-app)
 
