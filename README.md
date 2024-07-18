@@ -16,7 +16,7 @@
   + .Net Core
 + 版本控制
   + Git
-  + TFS
+  + SVN
 + Database
   + SQL Server
   + MariaDB
