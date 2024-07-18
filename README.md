@@ -21,6 +21,7 @@
   + SQL Server
   + MariaDB
   + MongoDB
+  + PostgreSQL
 
 ## Demo
 [Blog](https://ci-yu.top)
